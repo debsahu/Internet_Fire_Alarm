@@ -1,7 +1,7 @@
 # Internet_Fire_Alarm
 Connecting a ESP8266 to Kidde Smoke/Fire Alarm System. ESP8266 sends a MQTT message until the smoke alarm is beeping.
 
-[![YouTube](http://img.youtube.com/vi/pPd362tRx5o/0.jpg)](http://www.youtube.com/watch?v=pPd362tRx5o)
+[![YouTube](http://img.youtube.com/vi/rgAuyPvZLB4/0.jpg)](http://www.youtube.com/watch?v=rgAuyPvZLB4)
 
 Refer to https://github.com/debsahu/ESP_External_Interrupt to build the ESP8266 part of the internet connected smoke alarm.
 
